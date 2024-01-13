@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23009546163",
+    "project_id": "reactnativeapp-901f1",
+    "storage_bucket": "reactnativeapp-901f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23009546163:android:9564f83d6f7e95ed4e05c6",
+        "android_client_info": {
+          "package_name": "com.testreact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLs1QxOiiQx-iC-oesUFdb5vEYgfHzr8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
