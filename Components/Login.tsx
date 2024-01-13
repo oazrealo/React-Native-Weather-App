@@ -19,7 +19,7 @@ const Login: React.FC<LoginScreenProps> = ({ navigation }) => {
     signInWithEmailAndPassword(auth, email, password)
     .then((response) => {
       alert('Login success')
-      navigation.replace('Weather')
+      navigation.replace('Weathe')
     })
     .catch((err) => {
       alert('Wrong email or password, please try again.')
