@@ -19,7 +19,7 @@ const Register: React.FC<RegisterScreenProps> = ({ navigation }) => {
     createUserWithEmailAndPassword(auth, email, password)
     .then((response) => {
         alert('Create Success.')
-        navigation.replace('Logi')
+        navigation.replace('Login')
     })
     .catch((err) => {
         alert(err.message)
