@@ -179,6 +179,7 @@ const Weather: React.FC<WeatherScreenProps> = ({ navigation }) => {
                 if (img !== null) {
                     setImg(img)
                 }
+                console.log(icon)
             }
         } catch(err) {
             console.log(err)
